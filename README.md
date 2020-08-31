@@ -12,6 +12,5 @@ For other options use the buttons)
 
 ### Demo
 
-[link to Google!](http://google.com)
-[Demo](http://slimy-sneeze.surge.sh)
+[link to App!](http://messy-yarn.surge.sh/)
 
