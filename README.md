@@ -12,5 +12,6 @@ For other options use the buttons)
 
 ### Demo
 
-[Demo](slimy-sneeze.surge.sh)
+[link to Google!](http://google.com)
+[Demo](http://slimy-sneeze.surge.sh)
 
